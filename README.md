@@ -30,10 +30,6 @@ Git | GitHub | VS Code | Postman
 
 ---
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
----
 
 ## 🧩 Problem Solving
 - LeetCode: Improving daily problem solving  
@@ -42,17 +38,16 @@ Git | GitHub | VS Code | Postman
 ---
 
 ## 🚀 Featured Projects
-- 🔹 Expense Tracker / Analytics Dashboard  
-- 🔹 College Event Management System  
-- 🔹 Portfolio Website  
-
-(Add links to your actual repositories)
+- 🔹 Splitly - Smart Expense Analytics Dashboard
+- 🔹 LeetTrackAI - LeetCode Progress Tracker
+- 🔹 WanderAI - AI-Based Travel Planner
+- 🔹 Turing Machine Simulator (Theory of Automata & Formal Languages)
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- Email: YOUR_EMAIL  
+- LinkedIn: https://www.linkedin.com/in/guranshsingh25/ 
+- Email: guranshsingh2512@gmail.com
 
 ---
 
